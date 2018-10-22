@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to Word Guess Game
 
-You can use the [editor on GitHub](https://github.com/finian71/Word-Guess-Game/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Similar to hangman, this is a word guess game with a theme based on the tv show Samurai Jack. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Getting started
 
-### Markdown
+To get started go to https://finian71.github.io/Word-Guess-Game/.
+Press any key to start the game. A series of _ will appear on the right side of the screen with a picture of the Samurai Jack character on the left hand side. Guess the characters name correctly and you win! Wins, losses & guesses left are all displayed on the right hand side of the screen.  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Authors
 
-```markdown
-Syntax highlighted code block
+* **Matthew Feeley** - *Initial work* - [finian71](https://github.com/finian71)
 
-# Header 1
-## Header 2
-### Header 3
+## Acknowledgements
 
-- Bulleted
-- List
+* The theme was inspired by the tv show Samurai Jack, created by Genndy Tartakovsky
+* A css reset was used from myerweb.com
+* Fonts were used from google fonts
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/finian71/Word-Guess-Game/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
